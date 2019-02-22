@@ -1,6 +1,6 @@
-package com.creative.stockmanager.filter;
+package com.creative.taskmanager.filter;
 
-import com.creative.stockmanager.service.TokenAuthenticationService;
+import com.creative.taskmanager.service.TokenAuthenticationService;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.Authentication;

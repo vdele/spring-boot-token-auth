@@ -1,7 +1,7 @@
-package com.creative.stockmanager.repository;
+package com.creative.taskmanager.repository;
 
-import com.creative.stockmanager.entity.TacheBuilder;
-import com.creative.stockmanager.entity.Tache;
+import com.creative.taskmanager.entity.TacheBuilder;
+import com.creative.taskmanager.entity.Tache;
 import org.springframework.stereotype.Repository;
 
 import java.util.*;

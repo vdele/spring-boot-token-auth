@@ -1,7 +1,7 @@
-package com.creative.stockmanager.controller;
+package com.creative.taskmanager.controller;
 
-import com.creative.stockmanager.entity.Tache;
-import com.creative.stockmanager.repository.TacheRepository;
+import com.creative.taskmanager.entity.Tache;
+import com.creative.taskmanager.repository.TacheRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;

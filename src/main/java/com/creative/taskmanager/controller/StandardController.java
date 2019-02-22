@@ -1,4 +1,4 @@
-package com.creative.stockmanager.controller;
+package com.creative.taskmanager.controller;
 
 import org.springframework.web.bind.annotation.*;
 

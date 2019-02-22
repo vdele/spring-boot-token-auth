@@ -1,8 +1,8 @@
-package com.creative.stockmanager.configuration;
+package com.creative.taskmanager.configuration;
 
 
-import com.creative.stockmanager.filter.JWTAuthenticationFilter;
-import com.creative.stockmanager.filter.JWTLoginFilter;
+import com.creative.taskmanager.filter.JWTAuthenticationFilter;
+import com.creative.taskmanager.filter.JWTLoginFilter;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpMethod;

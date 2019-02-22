@@ -1,4 +1,4 @@
-package com.creative.stockmanager.entity;
+package com.creative.taskmanager.entity;
 
 
 import java.util.Date;

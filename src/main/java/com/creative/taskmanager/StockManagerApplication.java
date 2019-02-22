@@ -1,4 +1,4 @@
-package com.creative.stockmanager;
+package com.creative.taskmanager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
