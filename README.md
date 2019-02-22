@@ -1,2 +1,2 @@
 # spring-boot-token-auth
-A simple app to use token authentification with REST service
+A simple app with token authentification using Spring Security and JWT
