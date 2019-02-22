@@ -29,6 +29,7 @@ Execute another webservice with token in request header :
   - GET http://localhost:8080/taches
     Authorization : Bearer [...]
   - Response status is 200 OK, and you must see this JSON content :
+  ```
   [
       {
           "numTache": 1,
@@ -49,3 +50,4 @@ Execute another webservice with token in request header :
           "deadLine": "2019-02-22T13:10:16.895+0000"
       }
   ]
+  ```
